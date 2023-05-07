@@ -1,0 +1,1 @@
+<a href='routeur.php?action=deconnexion&class=utilisateur'><button>se deconnecter</button></a>

@@ -1,0 +1,1 @@
+<button class='btn-propose'>Proposer un prix</button>

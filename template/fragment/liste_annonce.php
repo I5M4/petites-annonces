@@ -1,0 +1,2 @@
+
+    <?= listeAnnonce($listeAnnonce) ?>

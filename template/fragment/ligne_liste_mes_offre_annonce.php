@@ -1,0 +1,1 @@
+<p>vous avez offert <?= $monOffre->html("montant") ?> € pour cette annnonce</p>

@@ -1,0 +1,2 @@
+<a href='routeur.php?action=afficher_form_creat_util&class=utilisateur'><button>creer un compte</button></a> 
+        <a href='routeur.php?action=affiche_connect_util&class=utilisateur'><button>se connecter</button></a>
